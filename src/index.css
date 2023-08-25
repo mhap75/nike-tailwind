@@ -71,4 +71,8 @@
     .flexStart {
         @apply flex justify-start items-start
     }
+
+    .flexWrap {
+        @apply flex flex-wrap
+    }
 }
